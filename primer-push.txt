@@ -1,0 +1,3 @@
+Ya tenemos vinculado el repositorio local con GitHub.
+¿Cómo aceptamos cambios y los actualizamos en GitHub?
+¡Con un push!
