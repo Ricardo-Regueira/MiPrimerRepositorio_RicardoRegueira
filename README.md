@@ -4,3 +4,5 @@ Para ello, hemos descargado git en Arch Linux y vamos a probar los comandos de g
 Vamos a terminar siendo todos unos profesionales :) (Mentalidad positiva ante todo).
 
 Ricardo Regueira Sánchez.
+
+Este es un cambio hecho desde GitHub por Ricardo Regueira
